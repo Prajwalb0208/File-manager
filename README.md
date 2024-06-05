@@ -36,5 +36,3 @@ python file_management_tool.py
 - Contributions are welcome! Fork the repository, make your changes, and submit a pull request with a clear description of the proposed changes.
 - For major changes, please open an issue first to discuss the potential impact and ensure compatibility with the project's goals.
 
-### License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
