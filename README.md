@@ -1,7 +1,7 @@
 ## File-manager
 
 ### Description:
-File-manager is a versatile file management tool designed to streamline the organization, sorting, and renaming of files on your local system. With an intuitive graphical user interface (GUI), users can easily select a folder, choose sorting criteria, rename files, organize files by type, and even undo recent operations. This tool simplifies file management tasks, enhancing productivity and efficiency.
+File-manager is a versatile file management tool designed to streamline the organization, sorting, and renaming of files on your local system. With an intuitive graphical user interface (GUI), users can easily select a folder, choose sorting criteria, rename files and organize files by type operations. This tool simplifies file management tasks, enhancing productivity and efficiency.
 
 ### Installation:
 1. **Clone the repository:**
